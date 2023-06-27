@@ -1,9 +1,39 @@
-<mxfile host="app.diagrams.net" modified="2023-06-27T06:50:27.277Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.58" version="21.5.0" etag="yVY3ne6baEeaLR6muMff" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-27T07:16:18.419Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.58" etag="Pe6F44Y6pHkWmudaQu7f" version="21.5.0" type="github">
   <diagram name="Page-1" id="456ZRaFEWkVoRBpD_hyP">
-    <mxGraphModel>
+    <mxGraphModel dx="1797" dy="1815" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="pBCVA_49oTNXY1WVLj0D-1" value="Duration of PATIENT exposure to the MEDICAL DEVICE&lt;br&gt;患者接触医疗器械的时间" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="115" y="-1010" width="1275" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="pBCVA_49oTNXY1WVLj0D-2" value="Limited exposure (≤ 24h)&lt;br&gt;有限暴露（≤ 24 小时）" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="70" y="-780" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pBCVA_49oTNXY1WVLj0D-3" value="Prolonged exposure (&amp;gt; 24h, &amp;lt; 30d)&lt;br&gt;长期暴露（&amp;gt; 24 小时，&amp;lt; 30 天）" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="490" y="-780" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pBCVA_49oTNXY1WVLj0D-4" value="Permanent contact (≥30 d)&lt;br&gt;永久接触（≥ 30 天）" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="-780" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pBCVA_49oTNXY1WVLj0D-5" value="Do limited exposure&lt;br&gt;&amp;nbsp;inhalational limits exist?&lt;br&gt;存在有限暴露吸入限制吗？" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="55" y="-670" width="195" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="pBCVA_49oTNXY1WVLj0D-6" value="Use this TI&lt;br&gt;使用此容许摄入量" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="-630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pBCVA_49oTNXY1WVLj0D-7" value="Do prolonged exposure &lt;br&gt;inhalational limits exist?&lt;br&gt;存在长期暴露吸入限制吗？" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="485" y="-670" width="195" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="pBCVA_49oTNXY1WVLj0D-8" value="Do permanent contact&lt;br&gt;inhalational limits exist?&lt;br&gt;存在永久接触吸入限制吗？" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="977.5" y="-670" width="195" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="pBCVA_49oTNXY1WVLj0D-9" value="Use this TI&lt;br&gt;使用此容许摄入量" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="717.5" y="-620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pBCVA_49oTNXY1WVLj0D-10" value="Use this TI&lt;br&gt;使用此容许摄入量" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1215" y="-630" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
