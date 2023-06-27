@@ -1,71 +1,149 @@
-<mxfile host="app.diagrams.net" modified="2023-06-27T08:25:08.638Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.58" etag="6Hwp-fnHhRK8IXqWe1Tb" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-27T08:30:46.350Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.58" etag="UC7THZ8WX7JSjiRh8DNp" version="21.5.0" type="github">
   <diagram name="Page-1" id="456ZRaFEWkVoRBpD_hyP">
-    <mxGraphModel dx="2307" dy="2200" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2572" dy="2400" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="pBCVA_49oTNXY1WVLj0D-1" value="Duration of PATIENT exposure to the MEDICAL DEVICE&lt;br&gt;患者接触医疗器械的时间" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="10" y="-870" width="990" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="pBCVA_49oTNXY1WVLj0D-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pBCVA_49oTNXY1WVLj0D-2" target="pBCVA_49oTNXY1WVLj0D-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pBCVA_49oTNXY1WVLj0D-2" value="Limited exposure (≤ 24h)&lt;br&gt;有限暴露（≤ 24 小时）" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="70" y="-780" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pBCVA_49oTNXY1WVLj0D-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.387;entryY=1.022;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="pBCVA_49oTNXY1WVLj0D-3" target="pBCVA_49oTNXY1WVLj0D-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pBCVA_49oTNXY1WVLj0D-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pBCVA_49oTNXY1WVLj0D-3" target="pBCVA_49oTNXY1WVLj0D-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pBCVA_49oTNXY1WVLj0D-3" value="Prolonged exposure (&amp;gt; 24h, &amp;lt; 30d)&lt;br&gt;长期暴露（&amp;gt; 24 小时，&amp;lt; 30 天）" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="293.75" y="-780" width="200" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="pBCVA_49oTNXY1WVLj0D-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.872;entryY=0.919;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="pBCVA_49oTNXY1WVLj0D-4" target="pBCVA_49oTNXY1WVLj0D-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pBCVA_49oTNXY1WVLj0D-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pBCVA_49oTNXY1WVLj0D-4" target="pBCVA_49oTNXY1WVLj0D-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pBCVA_49oTNXY1WVLj0D-4" value="Permanent contact (≥30 d)&lt;br&gt;永久接触（≥ 30 天）" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="798.12" y="-780" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pBCVA_49oTNXY1WVLj0D-25" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pBCVA_49oTNXY1WVLj0D-5" target="pBCVA_49oTNXY1WVLj0D-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pBCVA_49oTNXY1WVLj0D-27" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pBCVA_49oTNXY1WVLj0D-5" target="pBCVA_49oTNXY1WVLj0D-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pBCVA_49oTNXY1WVLj0D-5" value="Do limited exposure&lt;br&gt;&amp;nbsp;inhalational limits exist?&lt;br&gt;存在有限暴露吸入限制吗？" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="36.25" y="-700" width="207.5" height="170" as="geometry" />
         </mxCell>
         <mxCell id="pBCVA_49oTNXY1WVLj0D-6" value="Use this TI&lt;br&gt;使用此 TI" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-110" y="-645" width="120" height="60" as="geometry" />
+          <mxGeometry x="-125" y="-645" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pBCVA_49oTNXY1WVLj0D-33" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pBCVA_49oTNXY1WVLj0D-7" target="pBCVA_49oTNXY1WVLj0D-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pBCVA_49oTNXY1WVLj0D-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pBCVA_49oTNXY1WVLj0D-7" target="pBCVA_49oTNXY1WVLj0D-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pBCVA_49oTNXY1WVLj0D-41" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pBCVA_49oTNXY1WVLj0D-39">
+          <mxGeometry x="-0.0927" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="pBCVA_49oTNXY1WVLj0D-7" value="Do prolonged exposure &lt;br&gt;inhalational limits exist?&lt;br&gt;存在长期暴露吸入限制吗？" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="291.88" y="-700" width="203.75" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="pBCVA_49oTNXY1WVLj0D-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pBCVA_49oTNXY1WVLj0D-8" target="pBCVA_49oTNXY1WVLj0D-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pBCVA_49oTNXY1WVLj0D-45" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pBCVA_49oTNXY1WVLj0D-38">
+          <mxGeometry x="-0.4072" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pBCVA_49oTNXY1WVLj0D-43" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pBCVA_49oTNXY1WVLj0D-8" target="pBCVA_49oTNXY1WVLj0D-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pBCVA_49oTNXY1WVLj0D-8" value="Do permanent contact&lt;br&gt;inhalational limits exist?&lt;br&gt;存在永久接触吸入限制吗？" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="770" y="-700" width="206.25" height="170" as="geometry" />
         </mxCell>
         <mxCell id="pBCVA_49oTNXY1WVLj0D-9" value="Use this TI&lt;br&gt;使用此 TI" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="523.75" y="-645" width="120" height="60" as="geometry" />
+          <mxGeometry x="540" y="-645" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pBCVA_49oTNXY1WVLj0D-10" value="Use this TI&lt;br&gt;使用此 TI" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="-645" width="120" height="60" as="geometry" />
+          <mxGeometry x="1020" y="-645" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pBCVA_49oTNXY1WVLj0D-28" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pBCVA_49oTNXY1WVLj0D-12" target="pBCVA_49oTNXY1WVLj0D-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pBCVA_49oTNXY1WVLj0D-30" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pBCVA_49oTNXY1WVLj0D-12" target="pBCVA_49oTNXY1WVLj0D-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pBCVA_49oTNXY1WVLj0D-12" value="Do limited exposure&lt;br&gt;&amp;nbsp;inhalational toxicity data exist?&lt;br&gt;存在有限暴露吸入&lt;br&gt;毒性数据吗？" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="36.25" y="-500" width="207.5" height="170" as="geometry" />
         </mxCell>
+        <mxCell id="pBCVA_49oTNXY1WVLj0D-32" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pBCVA_49oTNXY1WVLj0D-13" target="pBCVA_49oTNXY1WVLj0D-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pBCVA_49oTNXY1WVLj0D-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pBCVA_49oTNXY1WVLj0D-13" target="pBCVA_49oTNXY1WVLj0D-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pBCVA_49oTNXY1WVLj0D-42" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pBCVA_49oTNXY1WVLj0D-40">
+          <mxGeometry x="-0.11" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="pBCVA_49oTNXY1WVLj0D-13" value="Do prolonged exposure &lt;br&gt;inhalational toxicity data exist?&lt;br&gt;存在长期暴露吸入&lt;br&gt;毒性数据吗？" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="290" y="-500" width="207.5" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="pBCVA_49oTNXY1WVLj0D-44" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pBCVA_49oTNXY1WVLj0D-14" target="pBCVA_49oTNXY1WVLj0D-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pBCVA_49oTNXY1WVLj0D-46" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pBCVA_49oTNXY1WVLj0D-14" target="pBCVA_49oTNXY1WVLj0D-22">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pBCVA_49oTNXY1WVLj0D-14" value="Do permanent contact&lt;br&gt;inhalational toxicity data exist?&lt;br&gt;存在永久接触吸入&lt;br&gt;毒性数据吗？" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="770" y="-500" width="207.5" height="170" as="geometry" />
         </mxCell>
         <mxCell id="pBCVA_49oTNXY1WVLj0D-15" value="Use ISO 10933-17 to derive a TI&lt;br&gt;使用 ISO 10933-17 获取 TI" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-210" y="-450" width="220" height="70" as="geometry" />
+          <mxGeometry x="-225" y="-450" width="220" height="70" as="geometry" />
         </mxCell>
         <mxCell id="pBCVA_49oTNXY1WVLj0D-16" value="Use ISO 10933-17 to derive a TI&lt;br&gt;使用 ISO 10933-17 获取 TI" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="523.75" y="-450" width="220" height="70" as="geometry" />
+          <mxGeometry x="540" y="-450" width="220" height="70" as="geometry" />
         </mxCell>
         <mxCell id="pBCVA_49oTNXY1WVLj0D-17" value="Use ISO 10933-17 to derive a TI&lt;br&gt;使用 ISO 10933-17 获取 TI" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="-450" width="220" height="70" as="geometry" />
+          <mxGeometry x="1020" y="-450" width="220" height="70" as="geometry" />
         </mxCell>
         <mxCell id="pBCVA_49oTNXY1WVLj0D-18" value="No data exist. Use default TTC of 360 µg/d.&lt;br&gt;没有数据。使用默认的 TTC 值 360 µg/d。" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="16.88" y="-110" width="246.25" height="70" as="geometry" />
+          <mxGeometry x="16.869999999999997" y="-100" width="246.25" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pBCVA_49oTNXY1WVLj0D-29" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pBCVA_49oTNXY1WVLj0D-19" target="pBCVA_49oTNXY1WVLj0D-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pBCVA_49oTNXY1WVLj0D-31" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pBCVA_49oTNXY1WVLj0D-19" target="pBCVA_49oTNXY1WVLj0D-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pBCVA_49oTNXY1WVLj0D-19" value="Do prolonged exposure &lt;br&gt;inhalational limits exist?&lt;br&gt;存在长期暴露吸入限制吗？" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="36.25" y="-300" width="207.5" height="170" as="geometry" />
         </mxCell>
         <mxCell id="pBCVA_49oTNXY1WVLj0D-20" value="Use 3 times the prolonged exposure TI&lt;br&gt;使用长期暴露 TI 的 3 倍" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-220" y="-250" width="230" height="70" as="geometry" />
+          <mxGeometry x="-235" y="-250" width="230" height="70" as="geometry" />
         </mxCell>
         <mxCell id="pBCVA_49oTNXY1WVLj0D-21" value="No data exist. Use default TTC of 120 µg/d.&lt;br&gt;没有数据。使用默认的 TTC 值 120 µg/d。" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="270.63" y="-110" width="246.25" height="70" as="geometry" />
+          <mxGeometry x="270.63" y="-100" width="246.25" height="70" as="geometry" />
         </mxCell>
         <mxCell id="pBCVA_49oTNXY1WVLj0D-22" value="No data exist. Use default TTC of 1.5 µg/d for each LEACHABLE SUBSTANCE or 40 µg/d for each voc.&lt;br&gt;没有数据。使用每个可溶出物质 1.5 µg/d或&lt;br&gt;每个 VOC 40 µg/d的默认 TTC 值。" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="703.12" y="-115" width="340" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pBCVA_49oTNXY1WVLj0D-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.131;exitY=0.961;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pBCVA_49oTNXY1WVLj0D-1" target="pBCVA_49oTNXY1WVLj0D-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="-670" as="sourcePoint" />
+            <mxPoint x="240" y="-720" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
