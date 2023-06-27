@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-27T08:05:50.528Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.58" etag="uFOFm4y9n9VnIK3ATwZA" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-27T08:22:59.445Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.58" etag="kpAoEneW8rhtuXdQhYuY" version="21.5.0" type="github">
   <diagram name="Page-1" id="456ZRaFEWkVoRBpD_hyP">
-    <mxGraphModel dx="2307" dy="2200" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1902" dy="1894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,7 +19,7 @@
         <mxCell id="pBCVA_49oTNXY1WVLj0D-5" value="Do limited exposure&lt;br&gt;&amp;nbsp;inhalational limits exist?&lt;br&gt;存在有限暴露吸入限制吗？" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="36.25" y="-700" width="207.5" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="pBCVA_49oTNXY1WVLj0D-6" value="Use this TI&lt;br&gt;使用此容许摄入量" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="pBCVA_49oTNXY1WVLj0D-6" value="Use this TI&lt;br&gt;使用此 TI" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-110" y="-655" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pBCVA_49oTNXY1WVLj0D-7" value="Do prolonged exposure &lt;br&gt;inhalational limits exist?&lt;br&gt;存在长期暴露吸入限制吗？" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
@@ -28,10 +28,10 @@
         <mxCell id="pBCVA_49oTNXY1WVLj0D-8" value="Do permanent contact&lt;br&gt;inhalational limits exist?&lt;br&gt;存在永久接触吸入限制吗？" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="769.99" y="-700" width="206.25" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="pBCVA_49oTNXY1WVLj0D-9" value="Use this TI&lt;br&gt;使用此容许摄入量" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="pBCVA_49oTNXY1WVLj0D-9" value="Use this TI&lt;br&gt;使用此 TI" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="523.75" y="-645" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pBCVA_49oTNXY1WVLj0D-10" value="Use this TI&lt;br&gt;使用此容许摄入量" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="pBCVA_49oTNXY1WVLj0D-10" value="Use this TI&lt;br&gt;使用此 TI" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1010" y="-645" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pBCVA_49oTNXY1WVLj0D-12" value="Do limited exposure&lt;br&gt;&amp;nbsp;inhalational toxicity data exist?&lt;br&gt;存在有限暴露吸入&lt;br&gt;毒性数据吗？" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
@@ -43,14 +43,29 @@
         <mxCell id="pBCVA_49oTNXY1WVLj0D-14" value="Do permanent contact&lt;br&gt;inhalational toxicity data exist?&lt;br&gt;存在永久接触吸入&lt;br&gt;毒性数据吗？" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="768.74" y="-500" width="207.5" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="pBCVA_49oTNXY1WVLj0D-15" value="Use ISO 10933-17 to derive a TI&lt;br&gt;使用 ISO 10933-17 获取容许摄入量" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="pBCVA_49oTNXY1WVLj0D-15" value="Use ISO 10933-17 to derive a TI&lt;br&gt;使用 ISO 10933-17 获取 TI" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-210" y="-450" width="220" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="pBCVA_49oTNXY1WVLj0D-16" value="Use ISO 10933-17 to derive a TI&lt;br&gt;使用 ISO 10933-17 获取容许摄入量" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="pBCVA_49oTNXY1WVLj0D-16" value="Use ISO 10933-17 to derive a TI&lt;br&gt;使用 ISO 10933-17 获取 TI" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="523.75" y="-450" width="220" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="pBCVA_49oTNXY1WVLj0D-17" value="Use ISO 10933-17 to derive a TI&lt;br&gt;使用 ISO 10933-17 获取容许摄入量" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="pBCVA_49oTNXY1WVLj0D-17" value="Use ISO 10933-17 to derive a TI&lt;br&gt;使用 ISO 10933-17 获取 TI" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1010" y="-450" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pBCVA_49oTNXY1WVLj0D-18" value="No data exist. Use default TTC of 360 µg/d.&lt;br&gt;没有数据。使用默认的 TTC 值 360 µg/d。" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="16.88" y="-110" width="246.25" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pBCVA_49oTNXY1WVLj0D-19" value="Do prolonged exposure &lt;br&gt;inhalational limits exist?&lt;br&gt;存在长期暴露吸入限制吗？" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="36.25" y="-300" width="207.5" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="pBCVA_49oTNXY1WVLj0D-20" value="Use 3 times the prolonged exposure TI&lt;br&gt;使用长期暴露 TI 的 3 倍" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="-250" width="230" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pBCVA_49oTNXY1WVLj0D-21" value="No data exist. Use default TTC of 120 µg/d.&lt;br&gt;没有数据。使用默认的 TTC 值 120 µg/d。" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="270.63" y="-110" width="246.25" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pBCVA_49oTNXY1WVLj0D-22" value="No data exist. Use default TTC of 1.5 µg/d for each LEACHABLE SUBSTANCE or 40 µg/d for each voc.&lt;br&gt;没有数据。使用每个可溶出物质 1.5 µg/d或&lt;br&gt;每个 VOC 40 µg/d的默认 TTC 值。" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="703.12" y="-115" width="340" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
